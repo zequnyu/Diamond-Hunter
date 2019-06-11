@@ -2,7 +2,7 @@
 
 ![diamond](diamond.png)
 
-This is a 2D-RPG diamond hunter game. The users control our hero to collect all 15 diamonds to win. To achieve the goal, the player need to find item axe and boat as well. Besides, a map viewer is provided to overview the whole map and items position can be set up by user themselves. (The code is only tested on Java 1.8)
+This is a 2D-RPG diamond hunter game. The user controls our hero to collect all 15 diamonds to win. To achieve the goal, the player need to find item axe and boat as well. Besides, a map viewer is provided to overview the whole map and items position can be set up by user themselves. (The code is only tested on Java 1.8)
 
 ## Usage
 
